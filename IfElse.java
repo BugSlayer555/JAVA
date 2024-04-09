@@ -23,7 +23,7 @@ class IfElse {
                 System.out.println("Multiplication of Both Number is: "+(a*b));
             }
             else if(sign==4){
-                System.out.println("Division of Both Number is: "+(a/2b));
+                System.out.println("Division of Both Number is: "+(a/b));
             }
             else{
                 System.out.println("Invaild Input");
